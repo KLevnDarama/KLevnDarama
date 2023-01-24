@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://gist.github.com/KLevnDarama">
-    <img alt="Github Gist" src="https://img.shields.io/badge/Gist-GitHub-black?style=for-the-badge&logo=github" />
+    <img alt="Github Gist" src="https://img.shields.io/badge/%20-Github%20Gist-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.youtube.com/channel/UCAlp6hhCxVn961iQrgN2h7A">
     <img alt="YouTube" src="https://img.shields.io/badge/%20-YouTube-cc4444?style=for-the-badge&logo=youtube" />
@@ -24,7 +24,7 @@
 
 <p align="right">
   <a href="https://github.com/KLevnDarama?tab=repositories">
-    <img alt="VSCode" src="https://img.shields.io/badge/Editor-VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code" />
+    <img alt="VSCode" src="https://img.shields.io/badge/%20-VSCode-007acc?style=for-the-badge&logo=visual-studio-code" />
     <img alt="HTML" src="https://img.shields.io/badge/%20-HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/%20-CSS-1572b6?style=for-the-badge&logo=css3">
     <img alt="JavaScript" src="https://img.shields.io/badge/%20-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black">
