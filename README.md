@@ -34,4 +34,4 @@
 
 - People call me **"Darama"** or **"Kevin"**. Because people can't pronounce my real name.
 - I make UI designs, Minigames, Discord bot, and more...
-- I speak ROBLOX lua, HTML, CSS, & JavaScript. Currently focusing on Node.JS.
+- I speak ROBLOX lua, JavaScript, & Node.JS
