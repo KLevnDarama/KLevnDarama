@@ -12,9 +12,6 @@
   <a href="https://twitter.com/RamdhaniSyauqi">
     <img alt="Twitter" src="https://img.shields.io/badge/%20-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/klevn_/">
-    <img alt="Instagram" src="https://img.shields.io/badge/%20-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://www.roblox.com/users/163218749/profile">
     <img alt="ROBLOX" src="https://img.shields.io/badge/%20-ROBLOX-202020?style=for-the-badge&logo=roblox" />
   </a>
@@ -25,8 +22,6 @@
 <p align="right">
   <a href="https://github.com/KLevnDarama?tab=repositories">
     <img alt="VSCode" src="https://img.shields.io/badge/%20-VSCode-007acc?style=for-the-badge&logo=visual-studio-code" />
-    <img alt="HTML" src="https://img.shields.io/badge/%20-HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/%20-CSS-1572b6?style=for-the-badge&logo=css3">
     <img alt="JavaScript" src="https://img.shields.io/badge/%20-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black">
     <img alt="Node.js" src="https://img.shields.io/badge/%20-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img alt="Lua" src="https://img.shields.io/badge/%20-lua-2c2d72?style=for-the-badge&logo=lua">
